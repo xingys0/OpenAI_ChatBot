@@ -9,6 +9,14 @@ This a Chat App with NEW ChatGPT API | Full stack, React, Redux Toolkit, Node, O
 
 
 
+:point_right:chat-bot and test user:
 
 
+
+
+
+<img width="355" alt="Screen Shot 2023-05-31 at 10 58 51 AM" src="https://github.com/xingys0/OpenAI_ChatBot/assets/130510998/4bae660b-0ca5-4d38-b3d8-77a4f8f03653">
+
+:point_right:The user interface looks like: 
+<img width="1440" alt="Screen Shot 2023-05-30 at 4 01 08 PM" src="https://github.com/xingys0/OpenAI_ChatBot/assets/130510998/7c252119-2724-4441-9afb-aefcd8686618">
 
